@@ -9,7 +9,9 @@
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
-    <description>openEAP suite1</description>
+    <description>openEAP suite1 (function module)
+        SSO集成样例、报表模块(eap-report)等
+    </description>
     <url>https://github.com/eaopen/openea-eap</url>
 
     <properties>
